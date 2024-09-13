@@ -50,6 +50,10 @@
 
 - [A Common-Sense Guide to Data Structures and Algorithms](https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second-dp-1680507222/dp/1680507222/ref=dp_ob_title_bk) One of the most beginner friendly books on the subject. It discusses the basics of data structures and algorithms.
 
+- [Advanced Algorithms and Data Structures](https://www.manning.com/books/advanced-algorithms-and-data-structures) The perfect follow up for _Introduction to Algorithms_.
+
+- [Grokking Data Structures](https://www.manning.com/books/grokking-data-structures) Introduces common and useful data structures that every developer needs to know. Real-world examples show you how data structures are used in practice.
+
 ## Courses
 
 - [Master the Coding Interview: Big Tech (FAANG) Interviews](https://academy.zerotomastery.io/p/master-the-coding-interview-faang-interview-prep) Course by Andrei and his team.
